@@ -2,4 +2,5 @@
 
 ## Run
 
+`cd react-test`
 `npm start`
